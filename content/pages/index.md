@@ -38,6 +38,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/2330859 1.jpg
     badge:
       label: This is a badge
       color: text-primary
