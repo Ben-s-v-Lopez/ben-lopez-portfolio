@@ -49,7 +49,7 @@ sections:
             - mt-0
       url: /images/2330859 1.jpg
     badge:
-      label: This is a badge
+      label: T
       color: text-primary
       type: Badge
     elementId: ''
