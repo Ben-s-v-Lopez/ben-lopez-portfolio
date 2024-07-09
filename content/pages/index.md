@@ -44,7 +44,7 @@ sections:
             - pr-0
           margin:
             - ml-48
-            - mr-40
+            - mr-48
             - mb-0
       url: /images/2330859 1.jpg
     badge:
