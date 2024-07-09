@@ -40,7 +40,7 @@ sections:
           borderRadius: medium
           padding:
             - pl-2
-            - pt-2
+            - pt-0
             - pr-2
           margin:
             - ml-32
