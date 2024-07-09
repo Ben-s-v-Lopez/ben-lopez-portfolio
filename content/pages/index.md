@@ -39,7 +39,7 @@ sections:
         self:
           borderRadius: medium
           padding:
-            - pl-2
+            - pl-0
             - pt-0
             - pr-2
           margin:
