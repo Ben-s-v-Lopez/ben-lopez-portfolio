@@ -26,7 +26,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - label: See Tutorials
+      - label: ''
         altText: ''
         url: /
         showIcon: true
