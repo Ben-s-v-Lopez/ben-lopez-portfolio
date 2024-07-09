@@ -19,6 +19,14 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - label: See Tutorials
         altText: ''
         url: /
