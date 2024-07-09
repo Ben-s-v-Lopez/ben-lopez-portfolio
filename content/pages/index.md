@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
         showIcon: false
