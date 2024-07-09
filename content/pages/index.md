@@ -43,7 +43,7 @@ sections:
             - pt-0
             - pr-0
           margin:
-            - ml-0
+            - ml-48
             - mr-0
             - mb-0
             - mt-0
