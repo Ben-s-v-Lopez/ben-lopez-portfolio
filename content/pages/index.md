@@ -45,7 +45,7 @@ sections:
           margin:
             - ml-40
             - mr-40
-            - mb-40
+            - mb-0
       url: /images/2330859 1.jpg
     badge:
       label: This is a badge
