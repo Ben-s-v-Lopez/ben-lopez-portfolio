@@ -43,7 +43,7 @@ sections:
             - pt-2
             - pr-2
           margin:
-            - ml-80
+            - ml-40
             - mr-80
       url: /images/2330859 1.jpg
     badge:
