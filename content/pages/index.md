@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
