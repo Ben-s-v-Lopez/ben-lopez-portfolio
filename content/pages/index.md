@@ -41,6 +41,7 @@ sections:
           padding:
             - pl-2
             - pt-2
+            - pr-2
       url: /images/2330859 1.jpg
     badge:
       label: This is a badge
