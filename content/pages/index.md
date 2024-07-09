@@ -28,7 +28,7 @@ sections:
         elementId: ''
       - label: Projects
         altText: ''
-        url: /
+        url: /Projects
         showIcon: true
         icon: arrowRight
         iconPosition: right
