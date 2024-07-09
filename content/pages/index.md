@@ -48,10 +48,6 @@ sections:
             - mb-0
             - mt-0
       url: /images/2330859 1.jpg
-    badge:
-      label: T
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
