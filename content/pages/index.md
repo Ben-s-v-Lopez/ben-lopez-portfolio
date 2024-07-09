@@ -43,10 +43,10 @@ sections:
             - pt-0
             - pr-0
           margin:
-            - ml-48
-            - mr-48
-            - mb-48
-            - mt-48
+            - ml-0
+            - mr-0
+            - mb-0
+            - mt-0
       url: /images/2330859 1.jpg
     badge:
       label: This is a badge
