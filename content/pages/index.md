@@ -43,7 +43,7 @@ sections:
             - pt-0
             - pr-0
           margin:
-            - ml-40
+            - ml-48
             - mr-40
             - mb-0
       url: /images/2330859 1.jpg
