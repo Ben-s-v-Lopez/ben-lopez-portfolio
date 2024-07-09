@@ -40,6 +40,7 @@ sections:
           borderRadius: medium
           padding:
             - pl-2
+            - pt-2
       url: /images/2330859 1.jpg
     badge:
       label: This is a badge
