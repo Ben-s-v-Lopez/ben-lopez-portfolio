@@ -26,7 +26,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - label: ''
+      - label: Projects
         altText: ''
         url: /
         showIcon: true
