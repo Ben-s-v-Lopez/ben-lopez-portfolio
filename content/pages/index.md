@@ -10,15 +10,6 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: ''
-        altText: ''
-        url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Link
         altText: LinkedIn
         url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
