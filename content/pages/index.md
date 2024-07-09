@@ -7,7 +7,7 @@ sections:
       text: Welcome to my portfolio website!
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: ''
     actions:
       - label: Get started
