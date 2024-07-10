@@ -47,7 +47,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "About Me",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
