@@ -142,6 +142,9 @@ sections:
       type: TitleBlock
       text: Featured Projects
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
       - altText: Empathy logo
