@@ -1,7 +1,7 @@
 ---
 title: Sustainable Finance Compliance and Monitoring System
 slug: case-study-2
-date: '2022-02-05'
+date: '2022-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
