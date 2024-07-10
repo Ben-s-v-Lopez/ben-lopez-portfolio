@@ -223,7 +223,7 @@ sections:
         padding:
           - pt-16
           - pl-8
-          - pb-40
+          - pb-96
           - pr-8
         justifyContent: flex-start
       subtitle:
