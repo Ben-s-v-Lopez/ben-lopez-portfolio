@@ -31,7 +31,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Home",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
