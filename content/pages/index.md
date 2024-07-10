@@ -135,10 +135,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: My Most Recent Projects
-      color: text-dark
   - subtitle: Award winning enterprises trust us
     images:
       - altText: Empathy logo
