@@ -31,7 +31,7 @@ sections:
         elementId: ''
       - label: Projects
         altText: ''
-        url: /Projects
+        url: /Blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
