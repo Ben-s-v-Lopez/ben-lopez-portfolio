@@ -1,5 +1,5 @@
 ---
-title: ESG Risk Impact on Stock Price
+title: '''Insight'' app & VR'
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
