@@ -19,7 +19,7 @@ featuredImage:
         - mb-0
         - mr-0
       padding:
-        - pb-20
+        - pb-96
   type: ImageBlock
 bottomSections:
   - title: Divider
