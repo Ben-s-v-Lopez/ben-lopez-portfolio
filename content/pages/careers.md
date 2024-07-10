@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: About me
 slug: careers
 sections:
   - title:
