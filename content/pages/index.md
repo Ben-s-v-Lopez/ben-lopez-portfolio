@@ -135,6 +135,10 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - subtitle: Award winning enterprises trust us
     images:
       - altText: Empathy logo
