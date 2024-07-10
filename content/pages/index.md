@@ -116,7 +116,7 @@ sections:
         flexDirection: col
         justifyContent: center
         padding:
-          - pt-14
+          - pt-12
       subtitle:
         textAlign: center
     type: GenericSection
