@@ -55,7 +55,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Graduate or Entry Level
     items:
       - type: FeaturedItem
         title: Data scientist
