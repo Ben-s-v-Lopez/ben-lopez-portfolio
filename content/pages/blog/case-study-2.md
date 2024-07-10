@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Sustainable Finance Compliance and Monitoring System
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
@@ -8,11 +8,19 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/geio-tischler-7hww7t6NLcg-unsplash.jpg
   altText: Case study 2
   styles:
     self:
       borderRadius: x-large
+      margin:
+        - mt-0
+        - ml-0
+        - mb-0
+        - mr-0
+      padding:
+        - pb-0
+        - pt-0
   type: ImageBlock
 bottomSections:
   - title: Divider
