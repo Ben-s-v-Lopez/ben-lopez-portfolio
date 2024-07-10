@@ -102,7 +102,7 @@ sections:
         justifyContent: center
         padding:
           - pt-12
-          - pb-4
+          - pb-11
       subtitle:
         textAlign: center
     type: GenericSection
