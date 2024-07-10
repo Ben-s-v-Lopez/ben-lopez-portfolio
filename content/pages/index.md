@@ -109,7 +109,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key insights
+      label: Key insights of a
       color: text-primary
       styles:
         self:
