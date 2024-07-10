@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: left
     subtitle: Innovative. Analytical. Driven
     text: ''
     actions:
