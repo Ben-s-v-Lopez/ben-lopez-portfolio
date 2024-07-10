@@ -53,7 +53,7 @@
     },
     "primaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "more on me",
+        "title": "",
         "links": [
             {
                 "type": "Link",
