@@ -29,7 +29,7 @@ sections:
       type: BackgroundImage
       url: /images/alexey-marchenko-b8HSfIlni1c-unsplash.jpg
       altText: Placeholder image
-      backgroundSize: cover
+      backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
