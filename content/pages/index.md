@@ -135,6 +135,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Featured projects
   - subtitle: Award winning enterprises trust us
     images:
       - altText: Empathy logo
