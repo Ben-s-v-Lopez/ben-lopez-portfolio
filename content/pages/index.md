@@ -127,7 +127,7 @@ sections:
     hoverEffect: move-up
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/1707409250_union-stripes-logo.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
