@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
