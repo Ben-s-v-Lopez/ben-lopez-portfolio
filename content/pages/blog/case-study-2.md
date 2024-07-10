@@ -1,5 +1,5 @@
 ---
-title: Sustainable Finance Compliance and Monitoring System (SFCMS)
+title: Sustainable Finance Compliance and Monitoring System
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
