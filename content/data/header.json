@@ -9,7 +9,7 @@
             "type": "Link"
         },
         {
-            "label": "About me",
+            "label": "About Me",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
