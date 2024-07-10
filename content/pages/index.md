@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Innovative. Analytical. Driven
+    subtitle: Innovative. Analytical. Driven.
     text: ''
     actions:
       - type: Link
