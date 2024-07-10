@@ -155,6 +155,16 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -272,16 +282,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
