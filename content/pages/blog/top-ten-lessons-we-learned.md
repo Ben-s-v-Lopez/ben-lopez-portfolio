@@ -3,9 +3,9 @@ title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  I am passionate about using technology to tackle real-world problems,
+  improving lives by developing tools and models that drive business success,
+  enhance healthcare outcomes, and promote sustainability.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
