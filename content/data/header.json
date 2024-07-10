@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/Projects",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -10,7 +10,7 @@
         },
         {
             "label": "Projects",
-            "altText": "Blog",
+            "altText": "Projects",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -62,7 +62,7 @@
     "secondaryLinks": [
         {
             "label": "Career opportunities",
-            "altText": "Sign up",
+            "altText": "Contact",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -75,7 +75,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Contact"
         }
     ],
     "variant": "logo-left-primary-nav-centered",

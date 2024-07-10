@@ -1,14 +1,14 @@
 ---
 title: Sustainable Finance Compliance and Monitoring System
 slug: case-study-2
-date: '2022-02-16'
+date: '2024-07-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/geio-tischler-7hww7t6NLcg-unsplash.jpg
+  url: /images/geio-tischler-7hww7t6NLcg-unsplash 2.jpg
   altText: Case study 2
   styles:
     self:

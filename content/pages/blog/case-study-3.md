@@ -1,14 +1,14 @@
 ---
-title: ESG Risk Impact on Stock Price
+title: '''Insight'' App & VR'
 slug: case-study-3
-date: '2021-11-18'
+date: '2024-07-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/Screenshot 2024-07-10 at 00.31.56.png
+  url: /images/balazs-ketyi-sScmok4Iq1o-unsplash.jpg
   altText: Case study 3
   styles:
     self:
