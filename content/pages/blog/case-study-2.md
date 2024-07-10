@@ -14,7 +14,7 @@ featuredImage:
     self:
       borderRadius: x-large
       margin:
-        - mt-0
+        - mt-7
         - ml-0
         - mb-0
         - mr-0
