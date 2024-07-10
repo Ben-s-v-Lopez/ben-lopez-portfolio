@@ -71,7 +71,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
   - title:
-      text: Grow your business 10x faster
+      text: Data Scientist
       color: text-dark
       styles:
         self:
