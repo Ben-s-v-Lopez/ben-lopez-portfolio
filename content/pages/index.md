@@ -7,7 +7,7 @@ sections:
       text: Welcome to my portfolio website!
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Innovative. Analytical. Driven
     text: ''
     actions:
       - type: Link
