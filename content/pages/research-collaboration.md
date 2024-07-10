@@ -50,7 +50,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Desired positions
       color: text-dark
       styles:
         self:
