@@ -16,7 +16,7 @@ featuredImage:
       margin:
         - mt-0
         - ml-0
-        - mb-9
+        - mb-64
         - mr-0
   type: ImageBlock
 bottomSections:
