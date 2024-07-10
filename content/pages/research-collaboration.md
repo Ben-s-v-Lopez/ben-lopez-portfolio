@@ -24,7 +24,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
       url: /images/alexey-marchenko-b8HSfIlni1c-unsplash.jpg
