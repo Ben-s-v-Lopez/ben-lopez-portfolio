@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/geio-tischler-7hww7t6NLcg-unsplash.jpg
+  url: /images/geio-tischler-7hww7t6NLcg-unsplash 2.jpg
   altText: Case study 2
   styles:
     self:
