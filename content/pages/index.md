@@ -78,11 +78,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      A London based data scientist. I hold a Master's degree in Data Science &
+      Analytics from Brunel University and a Bachelor's degree in Marketing from
+      Richmond American University. My work focuses on integrating machine
+      learning and data analytics to drive innovative business solutions.
+
+
+      I'm passionate about using tech to tackle real world problems. My
+      experience is in bioinformatics, ESG analytics, climate science, and the
+      financial markets.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
