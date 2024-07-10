@@ -27,7 +27,7 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-background.svg
+      url: /images/alexey-marchenko-b8HSfIlni1c-unsplash.jpg
       altText: Placeholder image
       backgroundSize: cover
       backgroundPosition: center
