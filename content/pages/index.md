@@ -140,7 +140,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Featured Projects
       color: text-dark
   - subtitle: Award winning enterprises trust us
     images:
