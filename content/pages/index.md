@@ -70,7 +70,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/2330859 1.jpg
   - title:
       text: Grow your business 10x faster
       color: text-dark
