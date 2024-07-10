@@ -70,6 +70,16 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
       text: Data Scientist
       color: text-dark
@@ -106,16 +116,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
