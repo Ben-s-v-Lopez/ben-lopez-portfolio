@@ -32,7 +32,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 34
+      opacity: 100
     styles:
       self:
         padding:
