@@ -77,7 +77,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Innovating with Machine Learning and Analytics
     text: >
       A London based data scientist. I hold a Master's degree in Data Science &
       Analytics from Brunel University and a Bachelor's degree in Marketing from
