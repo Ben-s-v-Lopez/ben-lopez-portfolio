@@ -282,6 +282,16 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       text: Generic section with a video
@@ -325,16 +335,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Social Media Management
       color: text-dark
