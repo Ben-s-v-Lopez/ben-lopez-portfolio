@@ -16,7 +16,7 @@ featuredImage:
       margin:
         - mt-0
         - ml-0
-        - mb-64
+        - mb-0
         - mr-0
       padding:
         - pb-20
