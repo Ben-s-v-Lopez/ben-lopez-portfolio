@@ -150,7 +150,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: Featured Projects
+      text: Recent Projects
       color: text-dark
       styles:
         self:
