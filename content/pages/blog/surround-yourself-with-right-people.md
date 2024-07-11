@@ -1,7 +1,7 @@
 ---
 title: Sustainable Finance Compliance Monitoring System
 slug: surround-yourself-with-right-people
-date: '0012-07-05'
+date: ''
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
