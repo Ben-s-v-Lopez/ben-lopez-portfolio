@@ -8,7 +8,7 @@ topSections:
       text: Award winning data science
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: s
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
