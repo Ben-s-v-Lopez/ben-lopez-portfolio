@@ -1,7 +1,7 @@
 ---
 title: '''Insight'' App & VR'
 slug: top-twenty-ways-to-save-time
-date: '2023-01-01'
+date: '2023-08-01'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
