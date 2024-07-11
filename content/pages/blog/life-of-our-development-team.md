@@ -1,7 +1,7 @@
 ---
 title: Prostate Cancer Classification Model
 slug: life-of-our-development-team
-date: '2023-03-01'
+date: '2023-01-11'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
