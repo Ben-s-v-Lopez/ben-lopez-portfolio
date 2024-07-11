@@ -8,7 +8,7 @@ topSections:
       text: Award winning data science
       color: text-dark
       type: TitleBlock
-    subtitle: s
+    subtitle: FCA's Emerging Technology and Data Innovation Competition
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
