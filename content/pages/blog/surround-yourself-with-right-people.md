@@ -3,8 +3,8 @@ title: Sustainable Finance Compliance Monitoring System
 slug: surround-yourself-with-right-people
 date: '2024-07-05'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  A national award winning design for sustainable finance regulation, endorsed
+  by the Financial Conduct Authority.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
