@@ -3,7 +3,7 @@ title: >-
   Presenting the SFCMS at the Financial Conduct Authorities' Data Innovation for
   Future of Regulation (DIFoR) Conference
 slug: top-ten-lessons-we-learned
-date: '0002-07-05'
+date: '2024-07-05'
 excerpt: >-
   I am passionate about using technology to tackle real-world problems,
   improving lives by developing tools and models that drive business success,
