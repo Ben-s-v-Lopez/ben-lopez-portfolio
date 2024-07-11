@@ -2,7 +2,9 @@
 title: '''Insight'' App & VR'
 slug: top-twenty-ways-to-save-time
 date: '2024-08-01'
-excerpt: An iOS
+excerpt: >-
+  An iOS app with integrated VR capabilities to generate marketing audits,
+  suggest marketing campaigns, and visualises campaigns in a VR environment.
 featuredImage:
   url: /images/balazs-ketyi-sScmok4Iq1o-unsplash.jpg
   altText: Thumbnail
