@@ -203,6 +203,9 @@ sections:
       type: TitleBlock
       text: My Interests
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
