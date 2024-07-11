@@ -123,9 +123,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: Machine learning and AI in BioTech
         tagline: Industry interests
         subtitle: 'Maria Walters, Company'
         text: >-
