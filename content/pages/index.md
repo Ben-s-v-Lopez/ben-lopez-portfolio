@@ -201,7 +201,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: My Interests
       color: text-dark
   - type: DividerSection
     title: Divider
