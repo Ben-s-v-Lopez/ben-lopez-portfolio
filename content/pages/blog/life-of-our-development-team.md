@@ -3,9 +3,9 @@ title: Prostate Cancer Classification Model
 slug: life-of-our-development-team
 date: '2024-09-11'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  High-dimensional genomic data, genetic algorithms to optimize feature subsets,
+  and using machine learning models (SVM and Naïve Bayes) to classify Gleason
+  scores.
 featuredImage:
   url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg
   altText: Thumbnail
