@@ -191,7 +191,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: My Interests
+      text: ''
       color: text-dark
       styles:
         self:
