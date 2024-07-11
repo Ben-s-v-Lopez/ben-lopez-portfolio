@@ -153,7 +153,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: Recent Projects
+      text: Interests
       color: text-dark
       styles:
         self:
