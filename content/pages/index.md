@@ -7,7 +7,10 @@ sections:
       text: Welcome to my portfolio website!
       color: text-dark
       type: TitleBlock
-    subtitle: Innovative. Analytical. Driven
+      styles:
+        self:
+          textAlign: left
+    subtitle: Innovative. Analytical. Driven.
     text: ''
     actions:
       - type: Link
@@ -28,7 +31,7 @@ sections:
         elementId: ''
       - label: Projects
         altText: ''
-        url: /Projects
+        url: /blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
