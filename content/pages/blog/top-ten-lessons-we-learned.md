@@ -7,7 +7,7 @@ excerpt: >-
   improving lives by developing tools and models that drive business success,
   enhance healthcare outcomes, and promote sustainability.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/cf05df82-a4a3-43e7-9c69-2fd991188de1.JPG
   altText: Thumbnail
   type: ImageBlock
   styles:
