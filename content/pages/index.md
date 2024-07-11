@@ -120,7 +120,7 @@ sections:
         textAlign: center
     type: GenericSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: My Interests
     items:
       - type: FeaturedItem
         title: >-
