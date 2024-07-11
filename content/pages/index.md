@@ -130,7 +130,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    subtitle: My Interests
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
