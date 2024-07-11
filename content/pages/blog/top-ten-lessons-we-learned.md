@@ -5,9 +5,10 @@ title: >-
 slug: top-ten-lessons-we-learned
 date: '2024-07-05'
 excerpt: >-
-  I am passionate about using technology to tackle real-world problems,
-  improving lives by developing tools and models that drive business success,
-  enhance healthcare outcomes, and promote sustainability.
+  At the DiFoR conference, we presented our Sustainable Finance Compliance and
+  Monitoring System (SFCMS), a data-driven solution designed to detect and
+  prevent greenwashing in sustainable finance using advanced machine learning
+  techniques.
 featuredImage:
   url: /images/cf05df82-a4a3-43e7-9c69-2fd991188de1.JPG
   altText: Thumbnail
