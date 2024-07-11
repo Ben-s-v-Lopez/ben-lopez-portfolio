@@ -1,5 +1,5 @@
 ---
-title: Prostate Cancer Classification Model
+title: Machine Learning in BioTech
 slug: case-study-1
 date: '2024-09-11'
 excerpt: >-
