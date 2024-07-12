@@ -1,5 +1,5 @@
 ---
-title: ESG Risk Impact on Stock Price
+title: Prostate Cancer Classification Model
 slug: life-of-our-development-team
 date: '2024-09-11'
 excerpt: >-
