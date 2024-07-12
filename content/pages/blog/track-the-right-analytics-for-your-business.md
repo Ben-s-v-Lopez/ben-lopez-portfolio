@@ -1,6 +1,6 @@
 ---
 title: Prostate Cancer Classification Model
-slug: life-of-our-development-team
+slug: track-the-right-analytics-for-your-business
 date: '2024-09-11'
 excerpt: >-
   Developed a hierarchical classification model using SVM and genetic
