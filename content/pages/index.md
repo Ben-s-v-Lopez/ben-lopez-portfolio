@@ -153,10 +153,11 @@ sections:
         title: Sustainable Finance
         tagline: Industry interests
         subtitle: Promoting Ethical Investing with ESG Analytics
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I want to work in the finance industry to apply my expertise in ESG
+          analytics and machine learning, helping organizations make data-driven
+          investment decisions that promote sustainability and ethical
+          practices.
         actions: []
         colors: bg-dark-fg-light
         styles:
