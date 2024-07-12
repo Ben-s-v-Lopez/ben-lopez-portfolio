@@ -126,10 +126,10 @@ sections:
         title: 'Analytics, Machine Learning and AI in HealthTech'
         tagline: Industry interests
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I want to work in HealthTech to develop predictive models and
+          personalized treatment plans that enhance patient care and optimize
+          healthcare resources.
         image:
           type: ImageBlock
           altText: Maria Walters
