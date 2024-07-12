@@ -151,7 +151,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: BioTech
-        tagline: Feature 2
+        tagline: Industry insights
         subtitle: Advancing Biological Treatments through Data Analytics
         text: >
           I am passionate about Biotech to apply data analytics and machine
