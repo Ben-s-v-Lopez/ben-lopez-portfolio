@@ -87,15 +87,44 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+**Master's Thesis Project: Genetic Algorithms in Hierarchical Prostate Cancer Classification**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+**Overview:** My master's thesis project focuses on developing a hierarchical classification model for prostate cancer using advanced machine learning techniques. The primary goal is to enhance the accuracy of Gleason score prediction, a critical aspect of prostate cancer diagnosis and treatment planning.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> **Approach:**
 >
-> _By Clara White - VP of Marketing_
+> *   **Model Development:** Employed Support Vector Machines (SVM) for their efficacy in handling high-dimensional genomic data. Integrated genetic algorithms (GA) for optimal feature selection, enhancing model robustness and predictive accuracy.
+>
+> *   **Technologies Used:**
+>
+>     *   **Programming Languages:** R for model development and package creation.
+>
+>     *   **Data Tools:** MySQL for data management, preprocessing, and integration.
+>
+>     *   **Analytics Platforms:** Utilized Python for supplementary data analysis and integration with R.
+>
+>     *   **Big Data Tools:** Leveraged Hadoop and Spark for managing large-scale genomic datasets.
+>
+>     *   **Visualization:** Utilized Tableau for visualizing model outputs and data insights.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Implementation:**
+
+*   **Data Science Workflow:** Conducted extensive data preprocessing using MySQL and R, ensuring data quality and consistency. Applied genetic algorithms within the hierarchical classification model to optimize feature selection and improve prediction accuracy.
+
+*   **R Package Development:** Developed an R package integrating functions for data preprocessing, feature selection with genetic algorithms, SVM model training, and predictive analytics. Employed robust development tools (e.g., devtools, usethis) and documentation strategies (e.g., roxygen2) to ensure package reliability and usability.
+
+**Implications:**
+
+*   **Clinical Impact:** Enhanced accuracy in predicting Gleason scores can significantly improve prostate cancer diagnosis and treatment outcomes, facilitating personalized medicine approaches.
+
+*   **Research Advancement:** Contributes to the field of oncology by advancing hierarchical classification methodologies and demonstrating the utility of genetic algorithms in biomarker discovery.
 
 ![](/images/img-placeholder.svg)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+**Future Directions:**
+
+*   **Further Research:** Explore additional machine learning algorithms and expand the hierarchical model to incorporate more comprehensive genomic data for deeper insights into prostate cancer progression.
+
+*   **Application Development:** Extend the R package functionalities for broader application in clinical research and healthcare analytics.
+
+This thesis project represents a significant step towards leveraging advanced data science techniques for improving prostate cancer classification, underscoring my commitment to advancing healthcare through innovative research and technology.
