@@ -159,7 +159,6 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg
           altText: Business consulting
           elementId: ''
           styles:
