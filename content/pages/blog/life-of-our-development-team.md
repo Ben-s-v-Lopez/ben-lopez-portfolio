@@ -1,5 +1,5 @@
 ---
-title: ESG Risk on
+title: ESG Risk Impact on
 slug: life-of-our-development-team
 date: '2024-09-11'
 excerpt: >-
