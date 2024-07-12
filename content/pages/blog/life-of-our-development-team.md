@@ -3,9 +3,9 @@ title: Prostate Cancer Classification Model
 slug: life-of-our-development-team
 date: '2024-09-11'
 excerpt: >-
-  Modeled the impact of Environmental, Social, and Governance (ESG) risks on
-  stock prices using data from Bloomberg terminal and Alpha Vantage API, with an
-  automated dashboard.
+  Developed a hierarchical classification model using SVM and genetic
+  algorithms, integrated into an R package for biomarker discovery and
+  classification based on Gleason scores.
 featuredImage:
   url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg
   altText: Thumbnail
