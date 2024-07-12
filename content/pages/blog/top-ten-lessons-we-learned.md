@@ -27,7 +27,7 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
-### Presentation at DiFoR Conference: Sustainable Finance Compliance and Monitoring System (SFCMS)
+### ![](/images/tempImagejWU20k.bmp)Presentation at DiFoR Conference: Sustainable Finance Compliance and Monitoring System (SFCMS)
 
 #### Overview
 
@@ -66,4 +66,3 @@ The SFCMS was honored with an award at the DiFoR conference, recognizing its inn
 #### Conclusion
 
 Presenting the SFCMS at DiFoR alongside esteemed delegates was an enriching experience. It highlighted the role of data science in addressing critical challenges in financial regulation and underscored the importance of collaboration across governmental and international bodies.
-
