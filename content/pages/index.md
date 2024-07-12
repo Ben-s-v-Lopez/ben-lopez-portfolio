@@ -152,7 +152,7 @@ sections:
       - type: FeaturedItem
         title: Sustainable Finance
         tagline: Industry interests
-        subtitle: 'Jane Doe, Company'
+        subtitle: Promoting
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
