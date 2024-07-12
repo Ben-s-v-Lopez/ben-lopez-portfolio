@@ -175,10 +175,11 @@ sections:
         title: Environmental Technology
         tagline: Industry interests
         subtitle: Leveraging Data to Combat Climate Change and Drive Sustainability
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I am eager to contribute to the climate science industry by using data
+          analytics to address environmental challenges, develop strategies for
+          mitigating climate change, and support the transition to a more
+          sustainable future.
         image:
           type: ImageBlock
           altText: Business consulting
