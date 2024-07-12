@@ -125,7 +125,7 @@ sections:
       - type: FeaturedItem
         title: 'Analytics, Machine Learning and AI in HealthTech'
         tagline: Industry interests
-        subtitle: 'Maria Walters, Company'
+        subtitle: Innovating Diagnostic Accuracy with Machine Learning
         text: >
           I want to work in HealthTech to develop predictive models and
           personalized treatment plans that enhance patient care and optimize
