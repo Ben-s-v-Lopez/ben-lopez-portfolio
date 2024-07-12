@@ -27,9 +27,43 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+### Presentation at DiFoR Conference: Sustainable Finance Compliance and Monitoring System (SFCMS)
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+#### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+At the Financial Conduct Authority's (FCA) DiFoR (Data, Innovation, and Financial Regulation) conference, I had the privilege to present our groundbreaking project, the Sustainable Finance Compliance and Monitoring System (SFCMS). This project, detailed on our [SFCMS page](), was developed in collaboration with Diya Martin as part of our academic pursuits at Brunel University and Kingston University, respectively.
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+#### Project Description
+
+The SFCMS addresses the critical issue of greenwashing in the financial sector, leveraging advanced data science techniques to ensure transparency in sustainability reporting and combat misleading environmental claims.
+
+#### Key Presentation Highlights
+
+During the conference, I had the honor to present alongside distinguished delegates such as:
+
+*   **Dr. Ravinder Singh Zandu**, Head of Digital and Systems Team, Government Commercial Function
+
+*   **James Benford**, Executive Director for Data & Analytics Transformation and Chief Data Officer, Bank of England
+
+*   **Bonnie Buchanan, PhD**, Financial Conduct Authority, On secondment, Director of Sustainable and Explainable FinTech
+
+These governmental delegates and other international stakeholders emphasized the importance of leveraging data and innovation in financial regulation to foster transparency and accountability.
+
+#### Technology and Methodology
+
+Our project utilized a comprehensive approach:
+
+*   **Predictive Modelling with Random Forest**: Analyzing historical data to predict greenwashing behavior.
+
+*   **Natural Language Processing (NLP)**: Scrutinizing textual data for misleading sustainability claims.
+
+*   **Real-time Anomaly Detection**: Monitoring ESG metrics and financial transactions for irregularities.
+
+#### Award Recognition
+
+The SFCMS was honored with an award at the DiFoR conference, recognizing its innovative approach and potential impact on sustainable finance regulation. This accolade underscores our commitment to advancing transparent and sustainable financial practices.
+
+#### Conclusion
+
+Presenting the SFCMS at DiFoR alongside esteemed delegates was an enriching experience. It highlighted the role of data science in addressing critical challenges in financial regulation and underscored the importance of collaboration across governmental and international bodies.
+
