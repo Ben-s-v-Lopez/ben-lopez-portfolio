@@ -165,6 +165,7 @@ sections:
           styles:
             self:
               borderRadius: full
+          url: /images/geio-tischler-7hww7t6NLcg-unsplash 2.jpg
         actions: []
         colors: bg-dark-fg-light
         styles:
