@@ -182,7 +182,6 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Screenshot 2024-07-10 at 00.31.56.png
           altText: Business consulting
           elementId: ''
           styles:
