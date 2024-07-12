@@ -153,10 +153,10 @@ sections:
         title: BioTech
         tagline: Feature 2
         subtitle: Advancing Biological Treatments through Data Analytics
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I am passionate about Biotech to apply data analytics and machine
+          learning in the discovery and development of innovative biological
+          treatments.
         image:
           type: ImageBlock
           altText: Business consulting
