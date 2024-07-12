@@ -125,7 +125,7 @@ sections:
       - type: FeaturedItem
         title: HealthTech
         tagline: Industry interests
-        subtitle: Innovating Diagnostic Accuracy with Machine Learning
+        subtitle: 'Innovating Diagnostic Accuracy with Analytics, Machine Learning, & AI'
         text: >
           I want to work in HealthTech to develop predictive models and
           personalized treatment plans that enhance patient care and optimize
