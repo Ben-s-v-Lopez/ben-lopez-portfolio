@@ -8,7 +8,7 @@ topSections:
       text: Award Winning Data Science
       color: text-dark
       type: TitleBlock
-    subtitle: FCA's Emerging Technology and Data Innovation Competition
+    subtitle: Financial Conduct Authorities' DIFoR Conference
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
