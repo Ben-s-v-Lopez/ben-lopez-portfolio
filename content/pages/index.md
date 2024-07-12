@@ -172,7 +172,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Environmental Technology
         tagline: Industry interests
         subtitle: Be in good company
         text: >-
