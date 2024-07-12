@@ -123,7 +123,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 'Analytics, Machine Learning and AI in HealthTech'
+        title: HealthTech
         tagline: Industry interests
         subtitle: Innovating Diagnostic Accuracy with Machine Learning
         text: >
