@@ -3,9 +3,9 @@ title: ESG Risk Impact on Stock Price
 slug: life-of-our-development-team
 date: '2024-09-11'
 excerpt: >-
-  High-dimensional genomic data, genetic algorithms to optimize feature subsets,
-  and using machine learning models (SVM and Naïve Bayes) to classify Gleason
-  scores.
+  Modeled the impact of Environmental, Social, and Governance (ESG) risks on
+  stock prices using data from Bloomberg terminal and Alpha Vantage API, with an
+  automated dashboard.
 featuredImage:
   url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg
   altText: Thumbnail
