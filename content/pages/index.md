@@ -159,13 +159,6 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        image:
-          type: ImageBlock
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: none
-          url: /images/geio-tischler-7hww7t6NLcg-unsplash 2.jpg
         actions: []
         colors: bg-dark-fg-light
         styles:
