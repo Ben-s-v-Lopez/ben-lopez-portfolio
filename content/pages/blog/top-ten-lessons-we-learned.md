@@ -29,13 +29,13 @@ author: content/data/person1.json
 ---
 ### Presentation at DiFoR Conference: Sustainable Finance Compliance and Monitoring System (SFCMS)
 
-
-
 Overview
 
 At the Financial Conduct Authority's (FCA) DiFoR (Data, Innovation, and Financial Regulation) conference, I had the privilege to present our groundbreaking project, the Sustainable Finance Compliance and Monitoring System (SFCMS). This project, detailed on our [SFCMS page](), was developed in collaboration with Diya Martin as part of our academic pursuits at Brunel University and Kingston University, respectively.
 
-#### Project Description
+#### ![](https://preview--ben-lopez-dc87b.stackbit.dev/_static/app-assets/public/images/tempImagejWU20k.bmp)
+
+Project Description
 
 The SFCMS addresses the critical issue of greenwashing in the financial sector, leveraging advanced data science techniques to ensure transparency in sustainability reporting and combat misleading environmental claims.
 
