@@ -1,7 +1,5 @@
 ---
-title: >-
-  Presenting the SFCMS at the Financial Conduct Authorities' Data Innovation for
-  Future of Regulation (DIFoR) Conference
+title: Presenting the SFCMS at the Financial Conduct Authorities' DIFoR Conference
 slug: top-ten-lessons-we-learned
 date: '2024-07-05'
 excerpt: >-
