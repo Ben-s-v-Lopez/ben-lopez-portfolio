@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Award winning data science
+      text: Award Winning Data Science
       color: text-dark
       type: TitleBlock
     subtitle: FCA's Emerging Technology and Data Innovation Competition
