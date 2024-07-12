@@ -31,7 +31,7 @@ author: content/data/person1.json
 
 Overview
 
-At the Financial Conduct Authority's (FCA) DiFoR (Data, Innovation, and Financial Regulation) conference, I had the privilege to present our groundbreaking project, the Sustainable Finance Compliance and Monitoring System (SFCMS). This project, detailed on our [SFCMS page](), was developed in collaboration with Diya Martin as part of our academic pursuits at Brunel University and Kingston University, respectively.
+At the Financial Conduct Authority's (FCA) DiFoR (Data Innovation Future of Regulation) conference, I had the privilege to present our groundbreaking project, the Sustainable Finance Compliance and Monitoring System (SFCMS). This project, detailed on the 'Projects' page, was developed in collaboration with Diya Martin as Emerging Technology and Data Innovation Competition.
 
 ![](https://preview--ben-lopez-dc87b.stackbit.dev/_static/app-assets/public/images/IMG_5206.jpg)
 
