@@ -152,7 +152,7 @@ sections:
       - type: FeaturedItem
         title: BioTech
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: Advancing Biological Treatments through
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
