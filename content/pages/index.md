@@ -123,7 +123,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Machine learning and AI in BioTech
+        title: 'Analytics, Machine Learning and AI in HealthTech'
         tagline: Industry interests
         subtitle: 'Maria Walters, Company'
         text: >-
