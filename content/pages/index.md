@@ -150,9 +150,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: Sustainable Finance
         tagline: Industry interests
         subtitle: 'Jane Doe, Company'
         text: >-
