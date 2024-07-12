@@ -3,8 +3,8 @@ title: Sustainable Finance Compliance Monitoring System
 slug: surround-yourself-with-right-people
 date: '2024-07-05'
 excerpt: >-
-  A national award winning design for sustainable finance regulation, endorsed
-  by the Financial Conduct Authority.
+  A nationally recognised award winning design for sustainable finance
+  regulation, endorsed by the Financial Conduct Authority.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
