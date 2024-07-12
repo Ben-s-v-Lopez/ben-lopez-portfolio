@@ -187,7 +187,7 @@ sections:
           investment decisions that promote sustainability and ethical
           practices.
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
