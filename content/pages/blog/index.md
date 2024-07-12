@@ -48,7 +48,7 @@ postFeed:
   showDate: true
   showAuthor: true
   actions: []
-  elementId: null
+  elementId: x\
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
