@@ -25,13 +25,75 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
+#### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The Sustainable Finance Compliance and Monitoring System (SFCMS) is an innovative solution designed to combat greenwashing in the financial sector. Greenwashing involves companies misleading stakeholders by falsely claiming their products or practices are environmentally friendly. Our system leverages advanced data science techniques to ensure transparency and accountability in sustainable finance.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+#### Team Members
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Ben Lopez**: Masters student in Data Science and Analytics at Brunel University.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Diya Martin**: Masters student in Clinical Psychology at Kingston University.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+#### Objectives
+
+*   Detect and prevent greenwashing in financial disclosures and ESG (Environmental, Social, and Governance) reports.
+
+*   Enhance the Financial Conduct Authority’s (FCA) ability to monitor and enforce compliance in sustainable finance.
+
+#### Methodology
+
+1.  **Predictive Modelling with Random Forest**:
+
+    *   Trained on historical financial data and compliance records to predict potential greenwashing.
+
+2.  **Natural Language Processing (NLP)**:
+
+    *   Employed sentiment analysis and entity recognition to scrutinize corporate reports, regulatory filings, and social media for inconsistencies.
+
+3.  **Anomaly Detection with Isolation Forest**:
+
+    *   Continuously monitored ESG data and financial transactions in real-time to detect unusual patterns indicating non-compliance or fraud.
+
+#### Technology Stack
+
+*   **Cloud Computing**: Amazon Web Services (AWS) for scalable infrastructure.
+
+*   **Programming**: Python for model development.
+
+*   **Data Processing**: Apache Kafka for real-time data integration.
+
+#### Implementation
+
+1.  **Data Collection**:
+
+    *   Gathered extensive datasets including financial disclosures, ESG reports, regulatory filings, and social media data.
+
+2.  **Model Development**:
+
+    *   Developed and fine-tuned models in Python to ensure accuracy and low false-positive rates.
+
+3.  **Integration and Deployment**:
+
+    *   Integrated models into a unified system hosted on AWS for real-time monitoring.
+
+4.  **User Interface**:
+
+    *   Created intuitive dashboards for FCA regulators to visualize flagged cases and model outputs.
+
+#### Benefits
+
+*   **Enhanced Detection**: Improved identification of greenwashing.
+
+*   **Real-time Monitoring**: Continuous compliance analysis.
+
+*   **Increased Transparency**: Boosted trust among investors and consumers.
+
+#### Recognition
+
+Our project was recognized at the FCA's DiFoR conference, where we received an award for our innovative approach to sustainable finance. This accolade highlights the impact and potential of our system in fostering a more transparent and trustworthy financial market.
+
+#### Conclusion
+
+The SFCMS is a significant advancement in the fight against greenwashing, promoting sustainable finance through cutting-edge data science and machine learning. We are passionate about using these technologies to address real-world problems and look forward to further contributions to the industry.
+
