@@ -3,10 +3,10 @@ title: Presenting the SFCMS at the Financial Conduct Authorities' DIFoR Conferen
 slug: top-ten-lessons-we-learned
 date: '2024-07-05'
 excerpt: >-
-  At the DiFoR conference, we presented our Sustainable Finance Compliance and
-  Monitoring System (SFCMS), a data-driven solution designed to detect and
-  prevent greenwashing in sustainable finance using advanced machine learning
-  techniques.
+  At the Data Innovation for Future of Regulation (DiFoR) conference, we
+  presented our Sustainable Finance Compliance and Monitoring System (SFCMS), a
+  data-driven solution designed to detect and prevent greenwashing in
+  sustainable finance using advanced machine learning techniques.
 featuredImage:
   url: /images/cf05df82-a4a3-43e7-9c69-2fd991188de1.JPG
   altText: Thumbnail
